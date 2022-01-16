@@ -14,7 +14,7 @@ The main components of this project are
 * Model Evaluation 
 
 # Data
-Data for MBA originated across USA between 1990-2021
+Data for MBA refinance originated across USA between 1990-2021
 Weekly performance update as a target variable
 Mortgage Bankers Association Refi Index (Bloomberg Terminal)
 
@@ -22,8 +22,7 @@ Data for national economic factors from FRED (Federal Reserve Economic Data)
 Economically significant data 
 
 11,451 daily observations, each described by roughly 26 feature variables 
-Correlation was used to choose feature selection
-![image](![image](https://user-images.githubusercontent.com/70984576/149645151-130f58a8-7904-4659-9c45-d1202217f287.png))
+![image](https://user-images.githubusercontent.com/70984576/149645243-2dd8e08e-aa76-4aed-9c74-29f9e7c337e6.png)
 ![image](https://user-images.githubusercontent.com/70984576/149645157-648a9d4c-a127-4a84-a875-c08df49d6f7b.png)
 
 
